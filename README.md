@@ -1,75 +1,81 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+%F0%9F%91%8B;Desenvolvimento+web+com+prop%C3%B3sito;Ideias+reais%2C+solu%C3%A7%C3%B5es+publicadas" alt="Apresentação de Lucas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Lucas+Guilherme+Carvalho+Pereira;Desenvolvedor+de+sistemas;Problemas+reais%2C+produtos+digitais+simples" alt="Apresentação de Lucas Guilherme" />
 
-### Transformando necessidades reais em soluções web simples, úteis e bem apresentadas.
+### Transformando rotinas complicadas em sistemas simples, seguros e úteis.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaswrt.github.io/portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-17643C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaswrt.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswrt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaswrt)
 
 </div>
 
 ---
 
-## 👨‍💻 Perfil profissional
+## Sobre mim
 
-- 💻 Desenvolvedor em evolução, com foco em aplicações web
-- 🎯 Orientado a problemas reais e à experiência de quem utiliza
-- 📱 Interessado em interfaces responsivas, acessíveis e fáceis de navegar
-- 🚀 Experiência prática com publicação no Vercel e GitHub Pages
-- 📚 Em constante evolução em organização, documentação e boas práticas
+Sou **Lucas Guilherme Carvalho Pereira**, desenvolvedor de sistemas no Brasil. Gosto de entender primeiro o problema e a rotina das pessoas para depois transformar isso em uma solução digital clara e fácil de usar.
 
-## 🚀 Projetos publicados
+- Desenvolvimento de aplicações web de ponta a ponta
+- Interfaces responsivas, acessíveis e mobile-first
+- Regras de negócio, banco de dados e operações transacionais
+- Segurança, validação de dados, auditoria e controle de acesso
+- Publicação e manutenção com GitHub, Vercel e PostgreSQL
+- Aprendizado contínuo com projetos aplicados a necessidades reais
 
-### 🌾 Gestão Sítio Aguiar
+## Projeto em destaque
 
-Sistema web criado para apoiar a rotina de gestão rural, com experiência adaptada para diferentes perfis de uso.
+### Gestão do Criatório Sítio Aguiar
 
-[![Abrir aplicação](https://img.shields.io/badge/Abrir_aplica%C3%A7%C3%A3o-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://gestao-sitio-aguiar.vercel.app/)
+Sistema criado para substituir controles manuais de uma granja de produção e venda de ovos. A aplicação reúne produção diária, vendas, despesas, estoque, clientes, contas a receber, fabricação de ração, relatórios e auditoria.
 
-### 🌐 Portfólio profissional
+**Destaques técnicos e de produto:**
 
-Site responsivo e acessível desenvolvido para apresentar projetos sem expor dados privados de clientes.
+- PWA instalável no Android, iOS e computador
+- Experiência separada para administrador e funcionário
+- Estoque automático com bloqueio de saldo negativo
+- Operações financeiras e de estoque transacionais
+- Correção e estorno com histórico auditável
+- Foto de nota fiscal com confirmação humana
+- Interface mobile-first pensada para usuários com pouca experiência digital
 
-[![Ver site](https://img.shields.io/badge/Ver_site-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaswrt.github.io/portfolio/)
-[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaswrt/portfolio)
+[![Abrir aplicação](https://img.shields.io/badge/Abrir_aplica%C3%A7%C3%A3o-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gestao-sitio-aguiar.vercel.app/)
+[![Ver estudo de caso](https://img.shields.io/badge/Estudo_de_caso-17643C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaswrt.github.io/portfolio/#projetos)
 
-## 🧰 Tecnologias e ferramentas
+> O código desse sistema é privado para proteger as regras internas e os dados do cliente. O portfólio apresenta a solução sem expor informações confidenciais.
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vercel)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,html,css,js,git,github,vercel,vscode)](https://skillicons.dev)
 
 </div>
 
-## ⚙️ Como trabalho
+## Como trabalho
 
-- Começo entendendo o problema e o fluxo de uso
-- Organizo as funcionalidades de forma clara e prática
-- Construo interfaces responsivas e fáceis de manter
-- Documento o necessário para facilitar futuras melhorias
-- Publico, testo e aprimoro a solução em ambiente real
+1. Entendo o problema, as pessoas e a rotina atual.
+2. Organizo os fluxos para reduzir etapas e digitação.
+3. Construo a interface, as regras de negócio e o banco de dados.
+4. Valido segurança, desempenho e comportamento no celular.
+5. Publico, acompanho o uso e evoluo o produto com feedback real.
 
-## 📊 GitHub
+## Atividade no GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucaswrt&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Lucas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucaswrt&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&count_private=true" alt="Estatísticas do GitHub de Lucas Guilherme" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswrt&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Tecnologias mais utilizadas por Lucas Guilherme" />
 
 </div>
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
-[![Perfil GitHub](https://img.shields.io/badge/Fale_comigo_pelo_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaswrt)
+[![Conectar no LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswrt)
+[![Conhecer o portfólio](https://img.shields.io/badge/Conhecer_o_portf%C3%B3lio-17643C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaswrt.github.io/portfolio/)
 
-</div>
-
----
-
-<div align="center">
-
-### Obrigado pela visita! ⭐
+### Aberto a novos projetos e oportunidades.
 
 </div>
